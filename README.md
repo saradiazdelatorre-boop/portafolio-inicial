@@ -16,3 +16,5 @@ Me interesa aprender sobre sistemas informáticos, redes y herramientas que se u
 
 1. Configuración de servidores Windows y Linux.
 2. Creación y administración de redes informáticas.
+
+## TODO CORREGIDO
