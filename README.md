@@ -11,3 +11,8 @@ Me interesa aprender sobre sistemas informáticos, redes y herramientas que se u
 1. Utilizar Git y GitHub para gestionar proyectos.
 2. Aprender a trabajar de forma colaborativa.
 3. Mejorar mis conocimientos sobre programación y control de versiones.
+
+## Mis proyectos
+
+1. Configuración de servidores Windows y Linux.
+2. Creación y administración de redes informáticas.
